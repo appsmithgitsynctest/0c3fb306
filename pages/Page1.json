@@ -25,10 +25,43 @@
           "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
           "leftColumn": 0,
-          "children": []
+          "children": [
+            {
+              "widgetName": "Input1",
+              "displayName": "Input",
+              "iconSVG": "/static/media/icon.9f505595.svg",
+              "topRow": 27,
+              "bottomRow": 31,
+              "parentRowSpace": 10,
+              "autoFocus": false,
+              "type": "INPUT_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 11.9375,
+              "resetOnSubmit": true,
+              "leftColumn": 23,
+              "labelStyle": "",
+              "inputType": "TEXT",
+              "isDisabled": false,
+              "key": "s4y1jmxdn2",
+              "isRequired": false,
+              "rightColumn": 43,
+              "widgetId": "ztsx8d5fm5",
+              "isVisible": true,
+              "label": "",
+              "allowCurrencyChange": false,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "iconAlign": "left",
+              "defaultText": ""
+            }
+          ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
+          "Input1",
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
@@ -67,10 +100,43 @@
           "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
           "leftColumn": 0,
-          "children": []
+          "children": [
+            {
+              "widgetName": "Input1",
+              "displayName": "Input",
+              "iconSVG": "/static/media/icon.9f505595.svg",
+              "topRow": 27,
+              "bottomRow": 31,
+              "parentRowSpace": 10,
+              "autoFocus": false,
+              "type": "INPUT_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 11.9375,
+              "resetOnSubmit": true,
+              "leftColumn": 23,
+              "labelStyle": "",
+              "inputType": "TEXT",
+              "isDisabled": false,
+              "key": "s4y1jmxdn2",
+              "isRequired": false,
+              "rightColumn": 43,
+              "widgetId": "ztsx8d5fm5",
+              "isVisible": true,
+              "label": "",
+              "allowCurrencyChange": false,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "iconAlign": "left",
+              "defaultText": ""
+            }
+          ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
+          "Input1",
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
